@@ -11,6 +11,7 @@ public class Task3 {
         }
 
         nums = reverse;
+        System.out.println("");
           System.out.print("[");
         for (i=0;i<nums.length;i++){
       
